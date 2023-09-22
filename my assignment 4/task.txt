@@ -1,0 +1,101 @@
+task 4.1.. list out the feature of html 5?
+there are several feature in html which are added after in html5:
+1.audio and video tag: Audio and Video tags are the two major addition to HTML5. 
+It allows developers to embed a video or audio on their website.
+ 2.HTML5 uses semantics instead of  div tag: these semantics tags help in many
+  ways like it provides.
+        1.accessability.
+        2.S.E.O (Search Engine Optimization).
+        3.maintainability.
+   to the websites. there are som semantics which are given below:
+
+   1.header:
+    in this container tag we write the content which browser will
+   render top  most of the web page.
+   what is written in the header tag the browser will know what to load it first.
+
+   2.footer tag:
+    in this container tag we write the content which browser will
+   render least most of the web page.
+   what is written in the header tag the browser will know what to load it 
+   at last.
+   in his tag we write mainly about copy right, about us,contact us etc.
+
+   3.Figure and Figcaption:
+     HTML5 allows to use a <figure> element to mark up a photo in a document,
+      and a <figcaption> element to define a caption for the photo. 
+      The <figcaption> tag defines a caption for a <figure> element.
+
+    4.Nav tag:
+     The <nav> tag defines a set of navigation links.
+      It is used for the part of an internet site that links to different 
+      pages at the website.
+
+    5.section Tag:
+     This tag is used to split a page into sections like Introduction,
+      Contact Information, Details, etc and each of these sections can 
+      be in a different section tag.
+
+     6.article tag: 
+     article tag can be placed inside the section tag. But each of the
+     articles will contain independent content.
+
+task 4.2..what atr HTML entities? list out 5 commonly used entities.
+
+>HTML entities are character that are not present in our keyboard.
+An HTML entity is used to display invisible characters.
+like copyright mark.
+there are some html entities listed below:
+    1.&nbsp; - non-breaking space
+    2.&lt; - less than sign
+    3.&gt; - greater than sign
+    4.&copy;-copyright
+    5.&reg;-register trademark
+    6.&euro;-euro mark
+    7.&yen;-yen mark
+    8.&pound;-pound mark
+
+task 4.3..define accessbility in the context of web development . discuss why it is
+essential to create accessiable website and how it benefits different users
+group?
+>Accessibility:
+Web accessibility is the practice of making websites usable for all visitors
+ including those who are with disabilities, impairments, and limitations.
+
+essential to create accessiable website:
+ it is essential to create accessible website because as an engineer it is our
+ moral responsibility to not to think only about a single class of people .
+ there are some class of people with disabilities , acording to such people 
+ we need to add some addition feature to the websites so that they are also 
+ able to use it. which also leads to reach our web sites to wider audience. 
+
+how it will benefits different user group:
+there are different group of people ,providing accessibility help them alot:
+    1.people with vision disabilities-->we can help them by maintaining contrast,
+      brightness, fontsize using different attributs like placeholder etc.
+    2.people with hearing disabilities: using important article and headings 
+     also in audio format in web pages.
+
+task 4.4..list any three ways whics help us improving the accessability?
+>there arte several by which we can increase our web accessiable some of them
+are given below:
+    1.Use Semantic HTML: 
+    using semantic html tag helps to understand the structure of web page in
+    proper way. it also provides Search engine Optimization.
+    2.using alternative text with images:
+    using alternative text with images helps the people who are visually
+    impaired.
+    3.Make Forms Accessible:
+    there are several atrributes with html 5 using with we can make our Forms
+    more accessible to the peoples having some kind of disabilities:
+       - Provide clear labels for form inputs and providing appropriate id to
+         both input and labels tag.
+       -Provide clear labels for form inputs.
+       -using ARIA attributes.
+    
+
+
+
+
+
+     
